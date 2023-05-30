@@ -1,4 +1,4 @@
-Catch up Assignment 📚
+# Catch up Assignment 📚
 
 **Part 1: Keras CV for Image Classification 🖼️**
 
